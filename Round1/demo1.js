@@ -17,8 +17,4 @@ function demo1(num) {
     return numInitial + "=" + decomposingFactors;
 }
 
-function a() {
-
-}
-
-console.log(demo1(9000));
+console.log(demo1(14));
