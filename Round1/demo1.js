@@ -6,10 +6,8 @@ function demo1(num) {
     while (decomposingFactor <= (num / 2)) {
         decomposingFactor++;
         while (num % decomposingFactor === 0) {
-            if (num % decomposingFactor === 0) {
                 num = num / decomposingFactor;
                 decomposingFactors += decomposingFactor;
-            }
         }
 
     }
@@ -18,4 +16,4 @@ function demo1(num) {
     return numInitial + "=" + decomposingFactors;
 }
 
-console.log(demo1(90));
+console.log(demo1(9000));
