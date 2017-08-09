@@ -1,7 +1,8 @@
+"use strict"
 function demo1(num) {
-    var numInitial = num;
-    var decomposingFactors = "";
-    var decomposingFactor = 1;
+    let numInitial = num;
+    let decomposingFactors = "";
+    let decomposingFactor = 1;
 
     while (decomposingFactor <= (num / 2)) {
         decomposingFactor++;
@@ -14,6 +15,10 @@ function demo1(num) {
     decomposingFactors += num;
 
     return numInitial + "=" + decomposingFactors;
+}
+
+function a() {
+
 }
 
 console.log(demo1(9000));
