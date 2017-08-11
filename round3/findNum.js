@@ -1,16 +1,10 @@
-"use strict"
+"use strict";
 
 function findNum(arrayNum) {
+    let oneTime = [1,2];
     for (let item of arrayNum) {
-        let count = 0;
-        for (let elem of arrayNum) {
-            if (item === elem) {
-                count++;
-            }
-        }
-
-        if (count != 2) {
-            return item;
+        if (arrayNum.includes(item)){
+            console.log(123)
         }
     }
 }
