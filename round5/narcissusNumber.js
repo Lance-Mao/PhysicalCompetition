@@ -1,11 +1,21 @@
 "use strict"
 
+function isNarcissusNumber(i) {
+    if (Math.pow(getTheNumber(i,0), 3) + Math.pow(getTheNumber(i,1), 3) + Math.pow(getTheNumber(i,2), 3) === i)
+        return i;
+}
+
+function getTheNumber(i,index){
+    return (i + "").charAt(index);
+}
+
+
 function narcissusNumber() {
 
     let narcissusNumbers = [];
 
     for (let i = 100; i < 1000; i++) {
-        if (Math.pow((i % 10),3) + Math.pow(((i % 100) > 10 ? parseInt(i % 100 / 10) : 0),3) + Math.pow(parseInt(i / 100),3) === i){
+        if (isNarcissusNumber(i)) {
             narcissusNumbers.push(i);
         }
     }
@@ -14,3 +24,5 @@ function narcissusNumber() {
 }
 
 console.log(narcissusNumber())
+
+
