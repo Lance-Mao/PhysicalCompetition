@@ -8,7 +8,8 @@ function isMedian(array) {
 }
 
 function findMedian(array) {
-    array.sort((a, b) => a - b > 0);
+
+    array.sort((a, b) => a - b);
     if (isMedian(array))
         return array[(array.length - 1) / 2]
 
