@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eced49a0-b0fd-4770-acdc-2d3a2d173aa7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/round9/quadratic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/round10/findheSubscript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quadratic.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quadratic.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/round9/quadratic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findheSubscript.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/round10/findheSubscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/round7/frequency.js" />
         <option value="$PROJECT_DIR$/round8/repeatElements.js" />
         <option value="$PROJECT_DIR$/round9/quadratic.js" />
+        <option value="$PROJECT_DIR$/round10/findheSubscript.js" />
       </list>
     </option>
   </component>
@@ -139,6 +150,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,7 +162,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,26 +189,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.repeatElements.js">
-    <configuration name="findNum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="findNum.js" working-dir="$PROJECT_DIR$/round3" />
+  <component name="RunManager" selected="Node.js.quadratic.js">
     <configuration name="frequency.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="frequency.js" working-dir="$PROJECT_DIR$/round7" />
     <configuration name="median.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="median.js" working-dir="$PROJECT_DIR$/round6" />
     <configuration name="narcissusNumber.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="narcissusNumber.js" working-dir="$PROJECT_DIR$/round5" />
+    <configuration name="quadratic.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="quadratic.js" working-dir="$PROJECT_DIR$/round9" />
     <configuration name="repeatElements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="repeatElements.js" working-dir="$PROJECT_DIR$/round8" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.findNum.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.median.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.frequency.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.median.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.frequency.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.frequency.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.median.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.findNum.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.frequency.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.median.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
       </list>
     </recent_temporary>
   </component>
@@ -228,28 +239,29 @@
       <workItem from="1502776891778" duration="3855000" />
       <workItem from="1502863440549" duration="1883000" />
       <workItem from="1502867132602" duration="1192000" />
-      <workItem from="1502937857800" duration="1680000" />
+      <workItem from="1502937857800" duration="3727000" />
+      <workItem from="1503036003030" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67646000" />
+    <option name="totallyTimeSpent" value="69796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-14" width="1368" height="783" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5026022" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50693375" sideWeight="0.49739778" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50693375" sideWeight="0.49739778" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5469954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -289,14 +301,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/round8/repeatElements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/round6/median.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -652,8 +656,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/round9/quadratic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/round10/findheSubscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
