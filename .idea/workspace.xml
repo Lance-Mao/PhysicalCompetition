@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eced49a0-b0fd-4770-acdc-2d3a2d173aa7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/round10/findheSubscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/round11/setArr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,17 +32,27 @@
         <entry file="file://$PROJECT_DIR$/round9/quadratic.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findheSubscript.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="findheSubscript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/round10/findheSubscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setArr.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/round11/setArr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/round8/repeatElements.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+              <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/round8/repeatElements.js" />
         <option value="$PROJECT_DIR$/round9/quadratic.js" />
         <option value="$PROJECT_DIR$/round10/findheSubscript.js" />
+        <option value="$PROJECT_DIR$/round11/setArr.js" />
       </list>
     </option>
   </component>
@@ -150,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,10 +168,31 @@
               <item name="PhysicalCompetition" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhysicalCompetition" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PhysicalCompetition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhysicalCompetition" type="462c0819:PsiDirectoryNode" />
+              <item name="round7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhysicalCompetition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhysicalCompetition" type="462c0819:PsiDirectoryNode" />
+              <item name="round8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhysicalCompetition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhysicalCompetition" type="462c0819:PsiDirectoryNode" />
+              <item name="round9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhysicalCompetition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhysicalCompetition" type="462c0819:PsiDirectoryNode" />
+              <item name="round10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,26 +220,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.quadratic.js">
+  <component name="RunManager" selected="Node.js.setArr.js">
+    <configuration name="findheSubscript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="findheSubscript.js" working-dir="$PROJECT_DIR$/round10" />
     <configuration name="frequency.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="frequency.js" working-dir="$PROJECT_DIR$/round7" />
-    <configuration name="median.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="median.js" working-dir="$PROJECT_DIR$/round6" />
-    <configuration name="narcissusNumber.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="narcissusNumber.js" working-dir="$PROJECT_DIR$/round5" />
     <configuration name="quadratic.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="quadratic.js" working-dir="$PROJECT_DIR$/round9" />
     <configuration name="repeatElements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="repeatElements.js" working-dir="$PROJECT_DIR$/round8" />
+    <configuration name="setArr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="setArr.js" working-dir="$PROJECT_DIR$/round11" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.median.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.frequency.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.frequency.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.findheSubscript.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.setArr.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.frequency.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.median.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.narcissusNumber.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.setArr.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.findheSubscript.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.quadratic.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.repeatElements.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.frequency.js" />
       </list>
     </recent_temporary>
   </component>
@@ -240,28 +271,28 @@
       <workItem from="1502863440549" duration="1883000" />
       <workItem from="1502867132602" duration="1192000" />
       <workItem from="1502937857800" duration="3727000" />
-      <workItem from="1503036003030" duration="103000" />
+      <workItem from="1503036003030" duration="3719000" />
+      <workItem from="1503122416864" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69796000" />
+    <option name="totallyTimeSpent" value="73654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="10" y="41" width="1368" height="783" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5026022" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50693375" sideWeight="0.49739778" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50693375" sideWeight="0.49739778" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5469954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -301,14 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/round6/median.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/round7/frequency.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -630,18 +653,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/round7/frequency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/round8/repeatElements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -657,15 +672,31 @@
     <entry file="file://$PROJECT_DIR$/round9/quadratic.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/round10/findheSubscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/round7/frequency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/round11/setArr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
