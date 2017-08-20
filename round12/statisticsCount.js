@@ -16,4 +16,4 @@ function statisticsCount(str) {
     return "{" + arrayStorage.toString() + "}";
 }
 
-console.log(statisticsCount("asssssadadasdsfaaa"));
+console.log(statisticsCount("asssssadadasdsf"));
