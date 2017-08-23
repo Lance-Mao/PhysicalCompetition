@@ -1,5 +1,5 @@
 'use strict';
-const main = require("./main");
+const main = require("../../main/round12/main");
 
 describe("判断一个字符串中出现次数最多的字符，并统计次数", function(){
 

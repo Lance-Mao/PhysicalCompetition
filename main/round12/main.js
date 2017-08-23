@@ -7,7 +7,7 @@ function repeatedElementsAndTimes(str) {
 
 }
 
-function statisticsCount(str) {
+module.exports =function statisticsCount(str) {
 
     let heavyElementsAndTimes = [...new Set(repeatedElementsAndTimes(str))].sort().reverse();
 
@@ -16,4 +16,3 @@ function statisticsCount(str) {
     return "{" + arrayStorage.toString() + "}";
 }
 
-console.log(statisticsCount("asssssadadasdsfaaa"));
