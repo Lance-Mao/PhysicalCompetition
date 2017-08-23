@@ -1,0 +1,23 @@
+{
+  "name": "physical",
+  "version": "1.0.0",
+  "description": "体能测试训练题",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M977986310/PhysicalCompetition.git"
+  },
+  "author": "ThoughtWorks School",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/M977986310/PhysicalCompetition.git"
+  },
+  "homepage": "https://school.thoughtworks.cn",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
