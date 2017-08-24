@@ -13,8 +13,8 @@ describe("数组降维", function(){
 
     it("数组中包含两个数组", function(){
 
-        var result = main([1,2,[1,2],[3,4]]);
-        var expect_string = [1,2,1,2,3,4];
+        var result = main([1,2,[1,2],[3,40]]);
+        var expect_string = [1,2,1,2,3,40];
 
         expect(expect_string).toEqual(result);
     });
